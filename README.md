@@ -8,8 +8,8 @@ Features:
 
 -Mark tasks as complete
 
--Tech Stack
+## Tech Stack
 
-## Backend: Spring Boot, Java, Spring Data JPA, SQL
+### Backend: Spring Boot, Java, Spring Data JPA, SQL
 
-## Frontend: HTML, CSS, JavaScript
+### Frontend: HTML, CSS, JavaScript
